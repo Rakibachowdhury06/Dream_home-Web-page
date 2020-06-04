@@ -169,14 +169,15 @@ header{
 }
 
 .f_content {
-	overflow: hidden;}
-
-.f_content p{
+	overflow: hidden;
 	font-family: sans-serif;
 	color:#69717c;
 	text-align: center;
-	line-height:30px;
-}
+	line-height:30px;}
+
+.f_content p:last-child{
+	font-size:14px;
+	}
 
 .f_content ul{
 	margin-left: 38%;}

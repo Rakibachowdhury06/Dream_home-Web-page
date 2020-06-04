@@ -175,8 +175,8 @@ header{
 	text-align: center;
 	line-height:30px;}
 
-.f_content p.second{
-	font-size:14px;
+p:first-child{
+	font-size:18px;
 	}
 
 .f_content ul{

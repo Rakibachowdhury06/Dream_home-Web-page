@@ -175,7 +175,7 @@ header{
 	text-align: center;
 	line-height:30px;}
 
-.f_content p:last-child{
+p:last-child{
 	font-size:14px;
 	}
 

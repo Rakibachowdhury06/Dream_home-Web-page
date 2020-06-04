@@ -168,14 +168,14 @@ header{
 	/*border:1px solid red;*/
 }
 
-.f_content {
+.f_content{
 	overflow: hidden;
 	font-family: sans-serif;
 	color:#69717c;
 	text-align: center;
 	line-height:30px;}
 
-p:last-child{
+.p:last-child{
 	font-size:14px;
 	}
 
